@@ -1,14 +1,14 @@
-# Hi 👋 My name is Barbara
+# Hi 👋 I'm Barbara
 
 ### Software Engineering Student & Full Stack Developer
-Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e negócios. Atualmente, foco na construção de aplicações escaláveis e ferramentas de automação para otimizar processos reais.
+I am a developer passionate about creating solutions that bridge technology and business. Currently, I focus on building scalable applications and automation tools to optimize real-world processes.
 
 ---
 
-### 🚀 Sobre mim
-- 🎓 Estudante de Engenharia de Software.
-- 🏗️ Especializada no desenvolvimento de sites e sistemas para **prestadores de serviços**.
-- 🐍 Automatizando coleta de dados com **Python**.
+### 🚀 About Me
+- 🎓 Software Engineering Student.
+- 🏗️ Specialized in developing websites and systems for **trade contractors**.
+- 🐍 Automating data collection and workflows with **Python**.
 
 ---
 
