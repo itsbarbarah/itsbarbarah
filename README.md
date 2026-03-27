@@ -1,68 +1,53 @@
-<!-- Barbara Garcia — README -->
-<div align="center">
-```
-barbara-garcia / readme.md
-```
+# Hi 👋 My name is Barbara
 
-</div>
+### Software Engineering Student & Full Stack Developer
+Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e negócios. Atualmente, foco na construção de aplicações escaláveis e ferramentas de automação para otimizar processos reais.
 
 ---
 
-<h1>
-  Bar<em>bara</em><br>Garcia
-</h1>
-
-`// software engineering student`
-
-![status](https://img.shields.io/badge/status-currently%20learning%20%26%20vibe%20coding-4a7a4a?style=flat-square&labelColor=09090b)
+### 🚀 Sobre mim
+- 🎓 Estudante de Engenharia de Software.
+- 🛠️ Construindo atualmente um **SaaS de SEO** e ferramentas para **Marketing de Afiliados**.
+- 🏗️ Especializada no desenvolvimento de sites e sistemas para **prestadores de serviços** (trade contractors).
+- 🐍 Automatizando coleta de dados com **Python & Selenium**.
 
 ---
 
-### `01` about
+### 🛠️ Tech Stack & Skills
 
-> *"i don't just write code — i have conversations with it."*
+**Frontend & Design**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+</p>
 
-engineering student exploring the intersection of AI and creation.
-
----
-
-### `02` currently into
-
-| | |
-|---|---|
-| `⌘` **claude code** | agentic AI coding |
-| `●` **vibe coding** | building with intuition + AI |
-
----
-
-### `03` also learning
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" alt="JavaScript"/></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" alt="Python"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" alt="HTML5"/></a>&nbsp;
-  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" alt="CSS3"/></a>&nbsp;
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="32" alt="Figma"/></a>
+**Backend & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </p>
 
 ---
 
-### `04` most used languages
-
+### 📊 GitHub Stats
+<p align="left">
 <a href="https://github.com/Itsbarbarah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&langs_count=10&title_color=c49a5e&text_color=7a7068&icon_color=c49a5e&bg_color=09090b&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
----
-
-### `05` find me
-
-<p>
-  <a href="https://www.github.com/Itsbarbarah"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/barbara-garcia02"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="http://www.instagram.com/Itsgarciah"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="26" alt="Instagram"/></a>
 </p>
 
 ---
 
-<div align="right"><sub><em>barbara garcia · 2025</em></sub></div>
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/barbara-garcia02" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/Itsgarciah" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+</p>
