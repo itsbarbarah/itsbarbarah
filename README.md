@@ -23,10 +23,12 @@ Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 </p>
 
-**Backend & Tools**
+**Backend, Cloud & Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud / Cloud Code" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </p>
 
@@ -34,9 +36,7 @@ Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e
 
 ### 📊 GitHub Stats
 <p align="left">
-<a href="https://github.com/Itsbarbarah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
