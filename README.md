@@ -7,9 +7,8 @@ Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Engenharia de Software.
-- 🛠️ Construindo atualmente um **SaaS de SEO** e ferramentas para **Marketing de Afiliados**.
-- 🏗️ Especializada no desenvolvimento de sites e sistemas para **prestadores de serviços** (trade contractors).
-- 🐍 Automatizando coleta de dados com **Python & Selenium**.
+- 🏗️ Especializada no desenvolvimento de sites e sistemas para **prestadores de serviços**.
+- 🐍 Automatizando coleta de dados com **Python**.
 
 ---
 
@@ -36,7 +35,7 @@ Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e
 ### 📊 GitHub Stats
 <p align="left">
 <a href="https://github.com/Itsbarbarah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
 </a>
 </p>
 
@@ -47,7 +46,7 @@ Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e
   <a href="https://www.linkedin.com/in/barbara-garcia02" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="http://www.instagram.com/Itsgarciah" target="_blank">
+  <a href="http://www.instagram.com/Itsbarbara02" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
 </p>
