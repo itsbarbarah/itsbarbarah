@@ -36,8 +36,8 @@ Sou uma desenvolvedora apaixonada por criar soluções que conectam tecnologia e
 
 ### 📊 My Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsbarbarah&show_icons=true&theme=radical&hide_border=true" alt="Barbara's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itsbarbarah&show_icons=true&theme=radical&hide_border=true" alt="" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&layout=compact&theme=radical&hide_border=true" alt="" height="150" />
 </p>
 
 <p align="left">
