@@ -32,26 +32,3 @@ I am a developer passionate about creating solutions that bridge technology and 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </p>
 
----
-
-### 📊 My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsbarbarah&show_icons=true&theme=radical&hide_border=true" alt="" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsbarbarah&layout=compact&theme=radical&hide_border=true" alt="" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itsbarbarah&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/barbara-garcia02" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/Itsbarbara02" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-</p>
